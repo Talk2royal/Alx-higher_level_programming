@@ -1,13 +1,12 @@
- #!/usr/bin/python3
-""" more practice with classes!!! """
-
+#!/usr/bin/python3
+""" more of  classes!!! """
 
 class Rectangle:
     """ initialize with the width and height with value checks
     Args:
         width: of the rectangle
         height: of the rectangle
-    Return: nonezo
+    Return: nothing
     """
 
     number_of_instances = 0
